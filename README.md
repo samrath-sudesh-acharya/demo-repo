@@ -5,5 +5,9 @@ watch the tutorial video
 ### Local Development 
 
 1. Open index.html in the browser
+<<<<<<< HEAD
  hi i am samrath
 
+=======
+samrath
+>>>>>>> main
